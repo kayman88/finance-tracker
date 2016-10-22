@@ -1,0 +1,2 @@
+# README
+Finance tracking application
