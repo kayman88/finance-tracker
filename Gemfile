@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'pg', '~> 0.18.2'
+gem 'pg', '~> 0.19.0'
 
 gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
