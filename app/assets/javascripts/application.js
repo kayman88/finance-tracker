@@ -17,7 +17,7 @@
 //= require_tree .
 
 var hide_spinner= function(){
-  $('#spinnner').hide();
+  $('#spinner').hide();
 }
 
 var show_spinner= function(){
